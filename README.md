@@ -1,3 +1,3 @@
 Hi, my name is Linh and this is my GitHub repo.
-I don't have a lot on here because I mainly use GitLab for my personal projects. 
+I put the codebase for whatever goes on in my head here. It's not a lot.
 Still, it's something, right?
